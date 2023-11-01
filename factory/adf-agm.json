@@ -1,0 +1,9 @@
+{
+	"name": "adf-agm",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2228642d-f372-4e7f-a8d2-85e8004b7af7",
+		"tenantId": "aec762e4-3d54-495e-a8fe-4287dce6fe69"
+	}
+}
