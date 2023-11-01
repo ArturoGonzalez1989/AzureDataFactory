@@ -1,0 +1,9 @@
+{
+	"name": "adf-agonzalez",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "860ef717-e21f-4e71-a604-4e051c02aa86",
+		"tenantId": "aec762e4-3d54-495e-a8fe-4287dce6fe69"
+	}
+}
